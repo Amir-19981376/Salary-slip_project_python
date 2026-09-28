@@ -1,5 +1,19 @@
 # Salary-slip_python
-The pay slip of the person in question is reviewed. Taxes are levied based on the salary to obtain a loan of 100 million.
 
+This project involves processing payroll data and calculating salary- and tax-related figures.
 
-فیش حقوقی فرد مورد نظر بررسی میشود برای گرفتن وام 100 میلیونی با توجه به حقوق ، مالیات تعلق میگیرد .
+**Technologies Used**
+
+Python
+
+**Features**
+
+Inputting salary amount
+
+Evaluating eligibility for a 100-million-toman loan
+
+Performing calculations
+
+**Project Objective**
+
+To perform calculations based on defined conditions and variables.
